@@ -1,0 +1,51 @@
+﻿Office Move-In Checklist
+
+
+Space and Furniture Planning
+* Conduct employee census and occupancy review
+* Review current office layout and update existing drawings
+* Evaluate the alignment between departments and business functions
+* Identify appropriate common areas in new space
+* Create multiple space layouts and socialize for feedback
+* Verify dimensions and general buildout in new space
+* Establish high-level furniture goals (size, look, feel, color, functionality, cost)
+* Create a comprehensive and detailed furniture plan for the new space
+* Identify furniture lead time and installation timeframe
+* Purchase new furniture
+
+
+Technology
+* Conduct IT infrastructure assessment of current and proposed locations
+* Evaluation of power, uninterruptible power supply (UPS) coverage for critical office technologies, HVAC, ventilation, network and equipment positioning requirements
+* Evaluate current cabling and network industry best practices
+* Inventory office technology assets/needs including conference rooms & common areas
+* Evaluate WiFi network coverage versus industry best practices (coverage heatmap)
+* Evaluate physical security, alarm and employee access systems versus industry best practices
+* Inventory critical business and support applications
+* Evaluate network downtime options versus redundant hardware and applications during cut over
+* Identify desktop, printer & conference room support strategy and resources
+* Evaluate phone system; order new or relocate existing
+* Phone numbers: order new or transfer existing through carrier
+* Data services: order new or transfer existing (POTS, MPLS, Cable, T-1, Satellite, DSL, fiber - average 90-day lead time requested by most carriers)
+* Document detailed server and critical hardware plan
+* IT evaluation and approval of the move-in plan
+
+
+Vendors to Consider Hiring
+* Architectural and/or design
+* General contractor
+* Network (upgrade, backup, prepare for move)
+* Electrician
+* Voice/data
+* Cabling
+* Security
+* Audio visual
+* Office furniture
+* Moving
+* Painter
+* Janitorial
+* Landscaping
+* Vending
+* Liquidator (furniture and IT assets)
+* Artwork, signage
+* Records management
